@@ -1,0 +1,27 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "Ticket Tool",
+  "main": "Lrows.js",
+  "scripts": {
+    "start": "node Lrows.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.4.0",
+    "express": "^4.17.1",
+    "fs": "0.0.2",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.2",
+    "node-superfetch": "^0.1.10"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "tool",
+    "ticket"
+  ]
+}
